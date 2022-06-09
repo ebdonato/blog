@@ -1,0 +1,26 @@
+title: Blog do Donato
+description: O importante é ter amigos
+logoImage: ./assets/eu.jpg
+bannerImage: ./assets/banner.jpg
+socials:
+    facebook: https://www.facebook.com/ebdonato
+    twitter: https://www.twitter.com/ebdonato
+    instagram: https://www.instagram.com/ebdonato
+    url: https://mono.direct/ebdonato
+    youtube: https://www.youtube.com/c/eduardodonato82
+    linkedin: https://www.linkedin.com/in/ebdonato
+    email: eduardodonato@live.com
+    github: https://github.com/ebdonato
+    reddit: https://www.reddit.com/user/ebdonato
+# navLinks:
+#     - title: Hire me
+#       url: https://mywebsite.com
+#       isExternal: true
+#     - title: Must Read
+#       url: /must-read
+# blogFolder: blog
+authors:
+    ebdonato:
+        name: Eduardo Donato
+        title: Desenvolvedor Full Stack
+        description: Engenheiro de Software na Dock
