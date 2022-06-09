@@ -18,7 +18,7 @@ socials:
 #       isExternal: true
 #     - title: Must Read
 #       url: /must-read
-# blogFolder: blog
+blogFolder: posts
 authors:
     ebdonato:
         name: Eduardo Donato
